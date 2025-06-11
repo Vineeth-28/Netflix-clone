@@ -26,22 +26,6 @@
 
 Netflix Clone is a powerful developer tool that mirrors the essential features of a leading streaming service, providing a robust foundation for building scalable applications.
 
-**Why Netflix Clone?**
-
-This project serves as a comprehensive platform that replicates the core functionalities of a popular streaming service. The core features include:
-
-- 🎥 **User-Friendly Interface:** Effortlessly browse, search, and stream a wide variety of content.
-- ⚙️ **Scalable Architecture:** Designed to support future enhancements and maintainability.
-- 🌐 **Engaging Landing Page:** A foundational layout that showcases key features and user engagement elements.
-- ❓ **FAQ Section:** Addresses common inquiries, enhancing user experience and retention.
-
----
-
-## Getting Started
-
-### Prerequisites
-
-This project requires the following dependencies:
 
 - **Programming Language:** HTML,Css,Javascript
 
